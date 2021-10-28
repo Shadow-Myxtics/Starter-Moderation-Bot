@@ -13,3 +13,6 @@ Or use replit.com
 :p
 
 Thats all from me, Bye!
+_________________________________________________
+          Donations Accepted
+      https://paypal.me/notmyxtics
