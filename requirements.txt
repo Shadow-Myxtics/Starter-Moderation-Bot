@@ -1,0 +1,6 @@
+discord
+asyncio
+datetime
+os
+json
+requests
