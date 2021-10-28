@@ -15,4 +15,4 @@ Or use replit.com
 Thats all from me, Bye!
 _________________________________________________
           Donations Accepted
-      https://paypal.me/notmyxtics
+https://paypal.me/notmyxtics
